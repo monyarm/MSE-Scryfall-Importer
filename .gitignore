@@ -1,3 +1,5 @@
+*.mse-set
+set
 # Logs
 logs
 *.log
